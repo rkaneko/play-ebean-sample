@@ -6,12 +6,12 @@ This file will be packaged with your application, when using `play dist`.
 
 Reference website :
   
-+  https://groups.google.com/forum/#!msg/play-framework/2yoUVfxAWtY/jfT-kMEBIl0J
++  [google-group-Play-framework](https://groups.google.com/forum/#!msg/play-framework/2yoUVfxAWtY/jfT-kMEBIl0J "mailing-list")
 
-+  http://www.hitachi.co.jp/Prod/comp/soft1/manual/cosmi/v0900/03Y2101D/EY210093.HTM
++  [@JoinColumn](http://www.hitachi.co.jp/Prod/comp/soft1/manual/cosmi/v0900/03Y2101D/EY210093.HTM "@JoinColumn")
 
-+  http://www.hitachi.co.jp/Prod/comp/soft1/manual/cosmi/v0870/APR4/EU260088.HTM
++  [@OneToMany](http://www.hitachi.co.jp/Prod/comp/soft1/manual/cosmi/v0870/APR4/EU260088.HTM "@OneToMany")
 
-+  http://www.avaje.org/ebean/introquery_join.html
++  [Ebean fetch](http://www.avaje.org/ebean/introquery_join.html "Ebean fetch")
 
-+  https://github.com/ebean-orm-demo/demo-order/tree/master/src/main/java/app
++  [Ebean usage @github](https://github.com/ebean-orm-demo/demo-order/tree/master/src/main/java/app "Ebean usage @github")
