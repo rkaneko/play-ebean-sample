@@ -2,3 +2,16 @@ This is your new Play 2.1 application
 =====================================
 
 This file will be packaged with your application, when using `play dist`.
+
+
+Reference website :
+  
++  https://groups.google.com/forum/#!msg/play-framework/2yoUVfxAWtY/jfT-kMEBIl0J
+
++  http://www.hitachi.co.jp/Prod/comp/soft1/manual/cosmi/v0900/03Y2101D/EY210093.HTM
+
++  http://www.hitachi.co.jp/Prod/comp/soft1/manual/cosmi/v0870/APR4/EU260088.HTM
+
++  http://www.avaje.org/ebean/introquery_join.html
+
++  https://github.com/ebean-orm-demo/demo-order/tree/master/src/main/java/app
