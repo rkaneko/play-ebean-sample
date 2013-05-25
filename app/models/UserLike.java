@@ -68,7 +68,7 @@ public class UserLike extends Model {
 			UserLike userLike = new UserLike();
 			User user = new User();
 			userLike.user = user;
-			if (sqlRow.containsKey("uid"))
+			if (sqlRow.containsKey("id"))
 				userLike.id = sqlRow.getLong("id");
 			if (sqlRow.containsKey("created_at"))
 				userLike.createdAt = sqlRow.getUtilDate("created_at");
@@ -109,7 +109,7 @@ public class UserLike extends Model {
 			UserLike userLike = new UserLike();
 			User user = new User();
 			userLike.user = user;
-			if (sqlRow.containsKey("uid"))
+			if (sqlRow.containsKey("id"))
 				userLike.id = sqlRow.getLong("id");
 			if (sqlRow.containsKey("created_at"))
 				userLike.createdAt = sqlRow.getUtilDate("created_at");
